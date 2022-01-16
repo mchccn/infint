@@ -19,7 +19,7 @@
         "bigint",
         "big integer",
         "big number",
-        "arbitrary precision",
+        "arbitrary precision"
     ],
     "author": "cursorsdottsx <cursors.dev@gmail.com>",
     "license": "MIT",
