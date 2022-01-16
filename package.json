@@ -1,0 +1,31 @@
+{
+    "name": "@cursorsdottsx/infint",
+    "version": "1.0.0",
+    "description": "Lightning-fast arbitrary precision integers using strings + walkthrough and explanation.",
+    "main": "dist/index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/cursorsdottsx/infint.git"
+    },
+    "devDependencies": {
+        "@types/node": "^17.0.8",
+        "typescript": "^4.5.0"
+    },
+    "keywords": [
+        "infint",
+        "bigint",
+        "big integer",
+        "big number",
+        "arbitrary precision",
+    ],
+    "author": "cursorsdottsx <cursors.dev@gmail.com>",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/cursorsdottsx/infint/issues"
+    },
+    "homepage": "https://github.com/cursorsdottsx/infint#readme",
+    "dependencies": {}
+}
