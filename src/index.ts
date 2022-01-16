@@ -418,3 +418,9 @@ const InfInt: InfIntConstructor = (...args: ConstructorParameters<typeof infint>
 
 export { InfInt };
 export default InfInt;
+
+module.exports = InfInt;
+module.exports.InfInt = InfInt;
+
+exports.default = InfInt;
+exports.default.InfInt = InfInt;
